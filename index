@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>YO</title>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+
+<body>
+ 
+  <div class="container">
+    <div class="row">
+    <div class="col-lg-12">
+      <h2 style="text-align: center;">Android Gallery</h2>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+     <a href="img/cupcake.jpg" class="img-responsive thumbnail"> 
+      <p>CupCake</p>
+      <img src="img/cupcake.jpg ">
+    </a>
+    </div>
+
+    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+     <a href="img/donut.jpg" class="img-responsive thumbnail"> 
+      <p>dOOOnut</p>
+      <img src="img/donut.jpg ">
+    </a>
+    </div>
+
+    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+     <a href="img/eclair.jpg" class="img-responsive thumbnail"> 
+      <p>Eclair</p>
+      <img src="img/eclair.jpg ">
+    </a>
+    </div>
+
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+     <a href="img/froyo.jpg" class="img-responsive thumbnail"> 
+      <p>Froyo</p>
+      <img src="img/froyo.jpg ">
+    </a>
+    </div>
+
+    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+     <a href="img/ginger.jpg" class="img-responsive thumbnail"> 
+      <p>Ginger</p>
+      <img src="img/ginger.jpg ">
+    </a>
+    </div>
+
+    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+     <a href="img/honey.jpg" class="img-responsive thumbnail"> 
+      <p>Honey</p>
+      <img src="img/honey.jpg ">
+    </a>
+    </div>
+
+    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+     <a href="img/ice.jpg" class="img-responsive thumbnail"> 
+      <p>Ice</p>
+      <img src="img/ice.jpg ">
+    </a>
+    </div>
+
+    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+     <a href="img/jelly.jpg" class="img-responsive thumbnail"> 
+      <p>jelly</p>
+      <img src="img/jelly.jpg ">
+    </a>
+    </div>
+
+    </div>
+  </div>
+</div>
+</body>
+</html>
